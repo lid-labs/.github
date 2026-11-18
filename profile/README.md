@@ -1,6 +1,6 @@
 # LID Labs
 
-Independent software lab. We build low-level things that run in the browser.
+The engineering lab of [Lion informatique et Développement (LID)](https://www.developpement.ai). We build low-level things that run in the browser.
 
 Our work sits at the intersection of media engineering and retro hardware: WebAssembly codecs, cycle-accurate emulation, and the tooling that makes both approachable.
 
